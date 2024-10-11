@@ -52,9 +52,12 @@
      <Compile Include="Assets\Scripts\RotationControleur.cs" />
      <Compile Include="Assets\Scripts\ChariotControleur.cs" />
      <Compile Include="Assets\mouvement.cs" />
+     <Compile Include="Assets\CrochetControleur.cs" />
+     <Compile Include="Assets\Décollage.cs" />
      <Compile Include="Assets\Scripts\ChariotCommande.cs" />
      <Compile Include="Assets\Scripts\FlecheCommande.cs" />
      <Compile Include="Assets\Scripts\TranslationControleur.cs" />
+     <Compile Include="Assets\CrochetCommande.cs" />
      <Compile Include="Assets\Scripts\RotationCommande.cs" />
      <Compile Include="Assets\Scripts\TranslationCommande.cs" />
      <Compile Include="Assets\Grappin.cs" />
