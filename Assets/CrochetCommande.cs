@@ -2,6 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/* 
+Utilisation du script FlecheCommandes, avec une modification de l'axe afin de réaliser
+Un mouvement sur l'axe du crochet. Ce changement est accompagné d'un changement du nom de la class
+en CrochetCommande et de EtatFleche en EtatCrochet
+*/
 public class CrochetCommande : MonoBehaviour
 {
     public GameObject Crochet;

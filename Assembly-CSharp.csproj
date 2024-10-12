@@ -47,16 +47,22 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Helicopter\Scripts\Checkpoint.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\LookAtTargetController.cs" />
      <Compile Include="Assets\Scripts\FlecheControleur.cs" />
      <Compile Include="Assets\CameraManager.cs" />
      <Compile Include="Assets\Scripts\RotationControleur.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\PressedKeyCode.cs" />
      <Compile Include="Assets\Scripts\ChariotControleur.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\ControlPanel.cs" />
      <Compile Include="Assets\mouvement.cs" />
      <Compile Include="Assets\CrochetControleur.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\HeliRotorController.cs" />
      <Compile Include="Assets\Décollage.cs" />
      <Compile Include="Assets\Scripts\ChariotCommande.cs" />
      <Compile Include="Assets\Scripts\FlecheCommande.cs" />
      <Compile Include="Assets\Scripts\TranslationControleur.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\FollowTargetCamera.cs" />
      <Compile Include="Assets\CrochetCommande.cs" />
      <Compile Include="Assets\Scripts\RotationCommande.cs" />
      <Compile Include="Assets\Scripts\TranslationCommande.cs" />

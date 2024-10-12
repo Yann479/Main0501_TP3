@@ -29,10 +29,5 @@ public class mouvement : MonoBehaviour
         {
             transform.Rotate(0,0,1 * 2); // multiplication de la valeur sur l'axe des Z par une valeur positive cette fois pour réaliser une rotation dans le sens opposé sur l axe des Z également
         }
-
-        // if (Input.GetKey(KeyCode.LeftShift)) // pour le shift et réaliser une accélération
-        // {
-        //     transform.Translate(0,1* 0.02f,0 ); //réaliser une translation sur l'axe des y afin de faire avant la grue, en multipliant la valeur de l axe des Y par une valeur négative
-        // }
     }
 }
